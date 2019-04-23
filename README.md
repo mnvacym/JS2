@@ -1,3 +1,3 @@
-# JS 2nd Module
+# JavaScript 2nd Module
 
- - To see the built web page please visit https://ammarvehbi.github.io/JS2/Week1/
+ ### - To see the built web page please visit https://ammarvehbi.github.io/JS2/Week1/
